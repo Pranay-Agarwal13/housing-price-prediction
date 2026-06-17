@@ -4,8 +4,6 @@
 
 A machine learning project that predicts house prices based on property features using **Linear Regression** and **Random Forest Regressor**, and identifies which features most strongly influence price.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pranay-Agarwal13/housing-price-prediction/blob/main/analysis.ipynb)
-
 ---
 
 ## 📌 Problem Statement
